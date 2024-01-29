@@ -1,0 +1,27 @@
+nav {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: black; /* Or any color you prefer */
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.content {
+    padding: 20px; 
+}
+
+.welcome-header {
+    text-align: center;
+    font-size: 4em; 
+    font-family: 'Roboto', sans-serif; /* Sans serif font from Google Fonts */
+}
+
+.tagline {
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Lora', serif; /* Serif font from Google Fonts */
+}
